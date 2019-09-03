@@ -1,0 +1,133 @@
+#container{
+     
+     width: 600px;
+     margin: 0 auto;
+     /* border: 1px solid black; */
+     
+    
+}
+
+
+.side1 img{
+
+    height: 220px;
+    width: 270px;
+    display: inline-block;
+}
+
+.pop{
+
+    height: 70px;
+    width: 250px; 
+    float: right; 
+    margin-top: 12px;
+    text-align: justify;
+}
+
+.side1{
+    margin-top: 40px;
+}
+
+.side2 img{
+
+height: 220px;
+width: 270px;
+float: right; 
+margin-top: 35px;
+}
+
+.pop2{
+    height: 70px;
+    width: 250px;
+    display: inline-block;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+.side2{
+    margin-top: 30px;
+}
+
+#head{
+    text-align: center;
+}
+
+
+h6{
+    position: relative;
+    top: 20px;
+}
+
+.hope img{
+    height: 220px;
+    width: 270px;
+    display: inline-block;
+    margin-top: 100px;
+
+} 
+
+.hope p{
+   float: right;
+   text-align: justify;
+}
+    
+    
+.hope{
+    display: flex;
+    direction: column;
+}
+
+
+.five{
+    height: 70px;
+    width: 250px;  
+}
+
+.topp{
+    margin-top: 55px; 
+}
+
+.toppp{
+    margin-top: 85px;
+}
+
+.pop{
+    margin-right: 23px;
+
+}
+
+.fifth{
+    display: flex;
+    direction: columns;
+    margin-top: 120px; 
+}
+.fifth p{
+    padding-left: 70px;
+
+}
+
+.fifth h4{
+    padding-left: 70px;
+}
+
+.last{
+    text-align: center;
+    margin-top: 60px;
+}
+
+.last h6{
+    position: relative;
+    top: -20px;
+}
+
+.oga-div{
+    width: 750px;
+    height: 100%;
+    border: 1px solid rgb(228, 221, 221);
+    margin: 0 auto;
+}
+
+.last-Art{
+    
+    margin-top: 35px;    
+}
